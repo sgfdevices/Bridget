@@ -1,5 +1,5 @@
 # Bridget
-3D Printable Files for SGF Bridget (flatbox rev4-based) controller
+3D Printable Files for SGF Bridget controller. The case is a modified version of the Flatbox rev4 by jfedor (https://github.com/jfedor2/flatbox). The buttons are a modified version of the Egg On Rice buttons by b1nc (https://github.com/b1nc/Egg-On-Rice-Controller). It is designed to fit a Flatbox rev4 PCB without modification.
 
 Each case requires the following for full assembly:
 1x top case
